@@ -1,0 +1,13 @@
+# Troops
+Knights:     TS=12.5 Class=Cv  WT=2 Mob=Mounted
+Spearmen:    TS=4    Class=-   WT=1 Mob=Foot
+Crossbowmen: TS=2    Class=F   WT=1 Mob=Foot
+Dwarves:     TS=2    Class=Eng WT=1 Mob=Foot
+Sir Richard: TS=12   Class=-   WT=1 Mob=Foot
+
+# Yrth Military
+Knights: 3
+Spearmen: 5
+Crossbowmen: 2
+Dwarves: 1
+Sir Richard: 1

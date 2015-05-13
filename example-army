@@ -1,0 +1,4 @@
+# troops
+light infantry: TS=2 Class=Rec WT=1 Mob=Foot
+# army1
+light infantry: 10

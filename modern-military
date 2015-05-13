@@ -1,0 +1,17 @@
+# Troops
+IFV:          TS=1200  Class=Arm,Cv,F,T1 WT=8   Mob=Mech
+Riflemen:     TS=480   Class=F,Rec       WT=1   Mob=Foot
+HSW:          TS=(600) Class=F           WT=0.5 Mob=Foot
+Command Post: TS=(600) Class=C3I         WT=1   Mob=0
+MANPAD:       TS=(600) Class=(Air)       WT=0.5 Mob=Foot
+APC:          TS=600   Class=Arm,Cv,F,T1 WT=4   Mob=Mech
+Light Truck:  TS=120   Class=Cv,T1       WT=2   Mob=Motor
+
+# Modern Military
+IFV: 13
+Riflemen: 9
+HSW: 3
+Command Post: 2
+MANPAD: 1
+APC: 1
+Light Truck: 1
